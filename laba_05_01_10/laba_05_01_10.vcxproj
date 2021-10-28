@@ -139,7 +139,22 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Drums.cpp" />
+    <ClCompile Include="Keeper.cpp" />
     <ClCompile Include="laba_05_01_10.cpp" />
+    <ClCompile Include="Stringed.cpp" />
+    <ClCompile Include="Wind.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Drums.h" />
+    <ClInclude Include="Keeper.h" />
+    <ClInclude Include="List.h" />
+    <ClInclude Include="Orchestra.h" />
+    <ClInclude Include="Stringed.h" />
+    <ClInclude Include="Wind.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="List.inl" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
