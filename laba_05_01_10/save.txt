@@ -1,0 +1,22 @@
+3
+Drums
+500.000000
+2
+qwerty
+Н.М. Иванов
+eajfnvks
+opkbdkkml j dj
+Stringed
+100.000000
+5
+asdfgh
+А.О. Гезе
+advz
+sbfdbbfd g s rs vs vsvsvs vb
+Wind
+1000.000000
+7
+zxcvbn
+Т.Т. Ибрагимов
+dbsrp
+m jsd slk soj slk k

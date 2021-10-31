@@ -142,6 +142,7 @@
     <ClCompile Include="Drums.cpp" />
     <ClCompile Include="Keeper.cpp" />
     <ClCompile Include="laba_05_01_10.cpp" />
+    <ClCompile Include="Orchestra.cpp" />
     <ClCompile Include="Stringed.cpp" />
     <ClCompile Include="Wind.cpp" />
   </ItemGroup>
@@ -155,6 +156,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="List.inl" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="save.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
