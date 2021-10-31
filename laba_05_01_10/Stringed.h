@@ -9,7 +9,8 @@ private:
 
 public:
 	Stringed(std::string name, std::string FIO, std::string manufacturer, double cost, size_t amount, std::string description);
+	~Stringed();
 	std::string data();
-
+	std::string printData();
 };
 
